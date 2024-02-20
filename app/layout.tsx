@@ -11,8 +11,7 @@ const workSans = Work_Sans({
 
 export const metadata: Metadata = {
   title: "Figma Clone",
-  description:
-    "Figma Clone using Fabric.js and Liveblocks for real-time collaboration",
+  description: "Figma Clone using Fabric.js and Liveblocks for real-time collaboration",
 };
 
 export default function RootLayout({
